@@ -1,0 +1,12 @@
+{
+  "name": "song-app-soundwave-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local static server for the mirrored tonetouchmusic site.",
+  "scripts": {
+    "serve": "serve tonetouchmusic.sakibhasan.dev -l 5176"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
