@@ -2,7 +2,7 @@
   "name": "song-app-soundwave-site",
   "version": "1.0.0",
   "private": true,
-  "description": "Local static server for the mirrored tonetouchmusic site.",
+  "description": "Local static server for the mirrored Soundwave music app.",
   "scripts": {
     "serve": "serve tonetouchmusic.sakibhasan.dev -l 5176"
   },

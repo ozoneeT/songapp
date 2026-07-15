@@ -1,0 +1,14 @@
+[build]
+  publish = "tonetouchmusic.sakibhasan.dev"
+
+[[redirects]]
+  from = "/tonetouchmusic.sakibhasan.dev/*"
+  to = "/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tonetouchmusic.sakibhasan.dev"
+  to = "/"
+  status = 301
+  force = true
